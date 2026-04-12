@@ -1,8 +1,6 @@
 # Multi-OS-Systems-Lab
 Multi-boot systems, AMD Hackintosh setups, and low-level OS engineering (EFI, OpenCore, Linux, Windows)
 
-# Multi-OS Systems Lab
-
 ## Overview
 
 This repository documents a series of advanced system engineering projects focused on multi-boot environments, Hackintosh setups on AMD hardware, and low-level OS troubleshooting.
