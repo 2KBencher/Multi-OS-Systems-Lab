@@ -146,4 +146,3 @@ Open to opportunities in:
 ![Boot Menu](../screenshots/boot-menu.png)
 ![Disk Layout](../screenshots/disk-layout.png)
 ![running OS](../screenshots/running-OS.png)
-
