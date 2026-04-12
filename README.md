@@ -139,3 +139,6 @@ Open to opportunities in:
 * System Administration
 * DevOps / Infrastructure
 * Platform Engineering
+
+---
+
