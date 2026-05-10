@@ -1,11 +1,11 @@
 # Multi-OS-Systems-Lab
-Multi-boot systems, AMD Hackintosh setups, and low-level OS engineering (EFI, OpenCore, Linux, Windows)
+Multi-boot systems, AMD Hackintosh setups, and low-level OS engineering (EFI, OpenCore, Linux, Windows, macOS)
 
 ---
 
 ## Overview
 
-This repository documents a series of advanced system engineering projects focused on multi-boot environments, Hackintosh setups on AMD hardware, and low-level OS troubleshooting.
+This repository documents a series of advanced system engineering projects focused on multi-boot environments, Hackintosh setups on AMD & Intel hardware, and low-level OS troubleshooting.
 
 The goal of this lab is to design, deploy, and debug complex operating system configurations across multiple platforms using a single physical machine.
 
@@ -39,8 +39,6 @@ Key features:
 * Custom partition layout
 * Stable switching between OS environments
 
- See: `triple-boot-system/`
-
 ---
 
 ### 2. AMD Hackintosh Compatibility Matrix
@@ -63,8 +61,6 @@ Focus:
 * Stability testing
 * Hardware-specific fixes
 
- See: `amd-hackintosh-matrix/`
-
 ---
 
 ### 3. OpenCore Configurations
@@ -76,8 +72,6 @@ Includes:
 * Boot arguments
 * ACPI patches
 * Kext configuration
-
- See: `opencore-configs/`
 
 ---
 
@@ -141,8 +135,3 @@ Open to opportunities in:
 * Platform Engineering
 
 ---
-
-## Screenshots
-![Boot Menu](../screenshots/boot-menu.png)
-![Disk Layout](../screenshots/disk-layout.png)
-![running OS](../screenshots/running-OS.png)
